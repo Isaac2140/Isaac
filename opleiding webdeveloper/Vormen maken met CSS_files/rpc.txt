@@ -1,0 +1,21 @@
+/**/try{hbl.client.callbacks.pollevents(
+{
+    "capacity": false,
+    "conversation_has_slot": false,
+    "conversation_id": "I8FRikmowuFMSP5r2Z5zr0O4Q4kAfrBW",
+    "in_active_conversation": false,
+    "ipaddress": "62.205.96.180",
+    "is_popup": false,
+    "last_index": 0.0,
+    "machine": "nrpc-http-6dff8d8578-4ltc4",
+    "new_events": [],
+    "operator_composing_state": "active",
+    "operator_has_sent_message": false,
+    "operator_nickname": null,
+    "resend_nickname": false,
+    "resend_status": false,
+    "site_is_online": false,
+    "status_state": "offline",
+    "visitor_id": "oGZDN6kzc316KTg22Z5zr0OB6brfajoW"
+}
+);}catch(e){}try{if(document.getElementById('olark-311611874516381')) hbl.util.remove_element('olark-311611874516381');}catch(e){}
